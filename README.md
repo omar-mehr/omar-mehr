@@ -22,40 +22,32 @@ I have experience with:
 ## 🧰 Languages & Tools
 
 ### 🎨 Frontend
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🟦 TypeScript
-- ⚛️ React
-- 💨 Tailwind CSS
-- ⏭️ Next.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
 ---
 
 ### ⚙️ Backend
-- 🟢 Node.js
-- 🚀 Express
-- 🐍 Python
-- ⚙️ C++
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp" />
+</p>
 
 ---
 
 ### 📱 Mobile
-- 🤖 Android Studio
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
 
 ---
 
 ### 🗄️ Database
-- 🐬 MySQL
-- 🐘 PostgreSQL
-- 🟣 MariaDB
-- 🗃️ SQLite
-- 🔥 Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mariadb,sqlite,firebase" />
+</p>
 
 ---
-
-### 🛠️ DevOps & Tools
-- 💻 Bash
-- 🔧 Git
-- 🐧 Linux
-- 🐳 Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,git,linux,docker" />
+</p>
